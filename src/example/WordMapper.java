@@ -32,5 +32,6 @@ public class WordMapper extends Mapper<Text, Text, Text, Text> {
         }
 
     }
+    //commentaire
 
 }
